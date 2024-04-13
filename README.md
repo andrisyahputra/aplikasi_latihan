@@ -1,6 +1,8 @@
 # aplikasi_latihan
+# Flutter 3.19.5 
 
 A new Flutter project.
+
 
 ## Getting Started
 
